@@ -33,7 +33,7 @@ html{
 
 header{
     background-color: rgba(0, 0, 0, 0.3);
-    background-color: rgb(138, 60, 0);
+    /* background-color: rgb(138, 60, 0); */
     position: fixed;
     width: 100%;
     /* border-bottom: solid 2px rgba(180, 180, 180, 0.2); */
@@ -396,7 +396,7 @@ header{
 .footer__copy{
     font-size: 1rem;
     text-align: center;
-    color: rgb(65, 65, 65);
+    color: rgb(255, 255, 255);
     margin-top: 3rem;
 }
 
